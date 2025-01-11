@@ -1,0 +1,17 @@
+bertopic
+matplotlib
+nltk
+numpy
+pandas
+re
+scipy
+seaborn
+sentence_transformers
+sklearn
+spacy
+string
+textstat
+torch
+tqdm
+transformers
+xgboost
