@@ -126,3 +126,8 @@ To get started with this project, you can clone the repository to your local mac
 
 ```bash
 git clone https://github.com/asmitac5/Language-and-AI-Final.git
+
+To get the requirements, run:
+
+'''bash
+pip install -r requirements.txt
