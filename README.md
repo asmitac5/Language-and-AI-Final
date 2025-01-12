@@ -125,4 +125,4 @@ To get started with this project, you can clone the repository to your local mac
 2. Run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/asmitac5/Language-and-AI.git
+git clone https://github.com/asmitac5/Language-and-AI-Final.git
